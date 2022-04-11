@@ -86,4 +86,8 @@
         justify-content: center;
     }
 
+    .cabecalhoPrincipal-nav-link-app {
+        order: -1;
+    }
+
 }
