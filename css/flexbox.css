@@ -5,7 +5,7 @@
 }
 
 .cabecalhoPrincipal-nav {
-    
+    display: flex;
 }
 
 .cabecalhoPrincipal-titulo {
