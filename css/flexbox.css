@@ -39,10 +39,8 @@
 .conteudoPrincipal-cursos {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
 }
 
 .conteudoPrincipal-cursos-link {
     width: 23%;
-    margin-bottom: 1%;
 }
